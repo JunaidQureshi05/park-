@@ -1,0 +1,32 @@
+B2C
+1. Fastag Recharge [App + Web]
+2. Buy Fastag [App + Web]
+3. Book Parking [App + Web]
+4. DCC [Web]
+	1. Customer
+	2. Cleaner
+	3. Supervisor
+	4. Sales App
+5. Car Trade (TP) [Web]
+6. Challan [Web]
+7. Discover [Web]
+8. Car accesories [Web]
+9. Health check [Web]
+10. Insurance (TP) [Web]
+
+
+B2B
+- Valet
+	1. Supervisor [ReactNative]
+	2. Valet App [ReactNative]
+	3. Customer [Web]
+
+
+
+Web App (Next.js + React + Typescript)
+
+React Native App 
+
+Android/iOS App (Native)
+
+Dashboard (Next.js + React + Typescript)
